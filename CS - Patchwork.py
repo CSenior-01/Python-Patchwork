@@ -1,6 +1,5 @@
 # Caitlin Senior
-# up2113762
-# Python Coursework 1
+# Patchwork
 
 from graphics import *
 
